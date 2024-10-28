@@ -57,7 +57,7 @@ public class ClinicAppointment {
         system.addDermatologist("Dr. Johnson");
 
         while (true) {
-            System.out.println("\n1. Book an Appointment");
+            System.out.println("1. Book an Appointment");
             System.out.println("2. View Appointments");
             System.out.println("3. Exit");
             System.out.print("Choose an option: ");
